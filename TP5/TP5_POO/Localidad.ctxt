@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Localidad
+comment0.text=\r\n\ Clase\ Localidad\ devuelve\ el\ nombre\ de\ la\ localidad\ y\ la\ provincia\ donde\ vive\ o\ nacio\ un\ paciente.\r\n\ \r\n\ @author\ Valenzuela\ Luciano\r\n\ @version\ 9/2021\r\n
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\r\n\ @param\ String\ nombre,\ String\ provincia\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment2.text=\r\n\ Setters\r\n
+comment3.params=p_provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=\r\n\ Getters\r\n
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment6.params=
+comment6.target=java.lang.String\ mostrar()
+comment6.text=\r\n\ @return\ Devuelve\ una\ cadena\ con\ el\ nombre\ de\ la\ localidad\ y\ la\ provincia.\r\n
+numComments=7

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CajaDeAhorro
+comment0.text=\r\n\ Clase\ CajaDeAhorro\ realiza\ la\ operacion\ de\ verificar\ si\ puede\ extraer,\ si\ no\ puede\ manda\ un\ mensaje\ de\ por\ que\ no\ puede\ extraer\ y\ \r\n\ un\ metodo\ para\ poder\ autorizar\ la\ extraccion.\r\n\ \r\n\ @author\ Valenzuela\ Luciano\r\n\ @version\ 9/2021\r\n
+comment1.params=p_nroCuenta\ p_titular
+comment1.target=CajaDeAhorro(int,\ Persona)
+comment1.text=\r\n\ Constructor\ sobrecargado\r\n\ @param\ int\ nroCuenta,\ Persona\ titular\ (variable\ de\ instancia)\r\n
+comment2.params=p_nroCuenta\ p_titular\ p_saldo
+comment2.target=CajaDeAhorro(int,\ Persona,\ double)
+comment2.text=\r\n\ Constructor\ sobrecargado\r\n\ @param\ int\ nroCuenta,\ Persona\ titular,\ double\ saldo\r\n
+comment3.params=p_extraccionesPosibles
+comment3.target=void\ setExtraccionesPosibles(int)
+comment3.text=\r\n\ Setters\r\n
+comment4.params=
+comment4.target=int\ getExtraccionesPosibles()
+comment4.text=\r\n\ Getters\r\n
+comment5.params=p_importe
+comment5.target=boolean\ puedeExtraer(double)
+comment5.text=\r\n\ Realiza\ una\ verificacion\ de\ si\ el\ saldo\ +\ el\ limite\ descubierto\ es\ mayor\ o\ igual\ al\ monto\ pasado\ por\ parametro\r\n\ devuelve\ true\ (puede\ extraer),\ caso\ contrario\ devuelve\ false\ (no\ puede\ extraer).\r\n\ @param\ double\ importe\r\n\ @return\ true\ o\ false\r\n
+comment6.params=p_importe
+comment6.target=boolean\ extraer(double)
+comment6.text=\r\n\ Metodo\ que\ realiza\ una\ verificacion,\ manda\ un\ mensaje\ al\ metodo\ puedeExtraer\ y\ le\ pasa\ por\ parametro\ el\ importe,\ si\ el\ metodo\r\n\ devuelve\ true,\ entonces\ le\ quitamos\ uno\ a\ las\ extracciones\ posibles\ del\ usuario\ y\ se\ devuelve\ true\ (se\ realiza\ la\ extraccion).\r\n\ Caso\ contrario\ devuelve\ false\ (no\ se\ puede\ realizar\ la\ extraccion).\r\n\ @param\ double\ importe\r\n\ @return\ true\ o\ false\r\n
+comment7.params=p_importe
+comment7.target=java.lang.String\ xQNoPuedeExtraer(double)
+comment7.text=\r\n\ @param\ double\ importe\r\n\ @return\ mensaje\ de\ por\ que\ no\ puede\ extraer\r\n
+comment8.params=
+comment8.target=void\ mostrar()
+numComments=9

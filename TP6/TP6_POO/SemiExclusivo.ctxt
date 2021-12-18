@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SemiExclusivo
+comment0.text=\r\n\ Clase\ SemiExclusivo\ muestra\ por\ pantalla\ la\ informacion\ del\ cargo\ semi\ exclusivo\r\n\ \r\n\ @author\ Valenzuela\ Luciano\ Juan\ Ignacio\ \r\n
+comment1.params=p_nombreCargo\ p_sueldoBasico\ p_anioIngreso\ p_horasDocencia\ p_horasDeInvestigacion
+comment1.target=SemiExclusivo(java.lang.String,\ double,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\r\n\ @param\ String\ nombreCargo,\ double\ sueldoBasico,\ int\ anioIngreso,\ int\ horasDocencia,\ int\ horasDeInvestigacion\r\n
+comment2.params=p_horasDeInvestigacion
+comment2.target=void\ setHorasInvestigacion(int)
+comment2.text=\r\n\ Setters\r\n
+comment3.params=
+comment3.target=int\ getHorasInvestigacion()
+comment3.text=\r\n\ Getters\r\n
+comment4.params=
+comment4.target=void\ mostrarCargo()
+comment4.text=\r\n\ Realiza\ una\ especializacion,\ manda\ un\ mensaje\ al\ metodo\ mostrarCargo\ de\ la\ clase\ padre\ y\ luego\ muestra\ por\ pantalla\ la\ informacion\ del\ cargo\r\n\ semi\ exclusivo\r\n
+numComments=5

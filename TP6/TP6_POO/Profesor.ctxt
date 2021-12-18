@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Profesor
+comment0.text=\r\n\ Clase\ Profesor\ muestra\ por\ pantalla\ la\ informacion\ de\ un\ profesor,\ lista\ sus\ cargos,\ obtiene\ el\ sueldo\ total\ de\ todos\ los\ cargos\ que\ posee\r\n\ y\ muestra\ en\ una\ linea\ la\ informacion\ principal\ de\ un\ profesor.\r\n\ \r\n\ @author\ Valenzuela\ Luciano\ Juan\ Ignacio\ \r\n
+comment1.params=p_dni\ p_nombre\ p_apellido\ p_anio\ p_titulo\ p_cargos
+comment1.target=Profesor(int,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ Cargo[])
+comment1.text=\r\n\ Constructor\ sobrecargado\r\n\ @param\ int\ dni,\ String\ nombre,\ String\ apellido,\ int\ anio,\ String\ titulo,\ Cargo[]\ cargos\r\n
+comment2.params=p_titulo
+comment2.target=void\ setTitulo(java.lang.String)
+comment2.text=\r\n\ Setters\r\n
+comment3.params=p_cargos
+comment3.target=void\ setCargos(Cargo[])
+comment4.params=
+comment4.target=java.lang.String\ getTitulo()
+comment4.text=\r\n\ Getters\r\n
+comment5.params=
+comment5.target=Cargo[]\ getCargos()
+comment6.params=
+comment6.target=void\ mostrar()
+comment7.params=
+comment7.target=void\ listarCargos()
+comment8.params=
+comment8.target=double\ sueldoTotal()
+comment8.text=\r\n\ Se\ crea\ una\ variable\ temporal\ para\ acumular\ el\ sueldo\ de\ cada\ cargo,\ se\ realiza\ un\ for\ que\ recorrera\ el\ Array\ y\ realiza\ una\ verificacion\r\n\ mientras\ que\ la\ posicion\ del\ array\ contenga\ un\ cargo\ (no\ sea\ null)\ entonces\ la\ variable\ acumulara\ el\ sueldo\ de\ cada\ cargo.\r\n\ @return\ sueldo\ de\ todos\ los\ cargos\ de\ un\ profesor\r\n
+comment9.params=
+comment9.target=java.lang.String\ mostrarLinea()
+comment9.text=\r\n\ @return\ datos\ principales\ del\ profesor\r\n
+numComments=10

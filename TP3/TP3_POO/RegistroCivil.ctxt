@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RegistroCivil
+comment0.text=\r\n\ Clase\ RegistroCivil\ instancia\ un\ objeto\ hombre\ y\ un\ objeto\ mujer,\ los\ casa,\ muestra\ por\ pantalla\ con\ quien\ esta\ casado\ y\ muestra\ sus\ datos.\r\n\ \r\n\ @author\ Valenzuela\ Luciano\r\n\ @version\ 9/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

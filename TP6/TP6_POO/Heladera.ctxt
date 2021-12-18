@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Heladera
+comment0.text=\r\n\ Clase\ Heladera\ imprime\ por\ pantalla\ las\ caracteristicas\ de\ una\ heladera\ y\ calcula\ el\ adicional.\r\n\ \r\n\ @author\ Valenzuela\ Luciano\ Juan\ Ignacio\r\n
+comment1.params=p_marca\ p_precio\ p_stock\ p_pies\ p_puertas\ p_compresor
+comment1.target=Heladera(java.lang.String,\ float,\ int,\ int,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ \r\n\ Stirng\ marca,\ float\ precio,\ int\ stock,\ int\ pies,\ int\ puertas,\ boolean\ compresor\r\n
+comment2.params=p_pies
+comment2.target=void\ setPies(int)
+comment2.text=\r\n\ Setters\r\n
+comment3.params=p_puertas
+comment3.target=void\ setPuertas(int)
+comment4.params=p_compresor
+comment4.target=void\ setCompresor(boolean)
+comment5.params=
+comment5.target=int\ getPies()
+comment5.text=\r\n\ Getters\r\n
+comment6.params=
+comment6.target=int\ getPuertas()
+comment7.params=
+comment7.target=boolean\ getCompresor()
+comment8.params=
+comment8.target=void\ imprimir()
+comment9.params=p_cuotas\ p_interes
+comment9.target=float\ creditoConAdicional(int,\ float)
+comment9.text=\r\n\ Calcula\ el\ adicional\ del\ valor\ de\ las\ cuotas\ al\ socilitar\ un\ credito.\r\n\ @param\ int\ cuotas,\ float\ interes\r\n\ @return\ adicional\r\n
+numComments=10

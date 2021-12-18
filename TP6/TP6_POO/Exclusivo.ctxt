@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Exclusivo
+comment0.text=\r\n\ Clase\ Exclusivo\ muestra\ por\ pantalla\ la\ informacion\ del\ cargo\ exclusivo.\r\n\ \r\n\ @author\ Valenzuela\ Luciano\ Juan\ Ignacio\ \r\n
+comment1.params=p_nombreCargo\ p_sueldoBasico\ p_anioIngreso\ p_horasDocencia\ p_horasDeInvestigacion\ p_horasDeExtension
+comment1.target=Exclusivo(java.lang.String,\ double,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\r\n\ @param\ String\ nombreCargo,\ double\ sueldoBasico,\ int\ anioIngreso,\ int\ horasDocencia,\ int\ horasDeInvestigacion,\ int\ horasDeExtension\r\n
+comment2.params=p_horasDeInvestigacion
+comment2.target=void\ setHorasInvestigacion(int)
+comment2.text=\r\n\ Setters\r\n
+comment3.params=p_horasDeExtension
+comment3.target=void\ setHorasExtension(int)
+comment4.params=
+comment4.target=int\ getHorasInvestigacion()
+comment4.text=\r\n\ Getters\r\n
+comment5.params=
+comment5.target=int\ getHorasExtension()
+comment6.params=
+comment6.target=void\ mostrarCargo()
+comment6.text=\r\n\ Realiza\ una\ especializacion,\ manda\ un\ mensaje\ al\ metodo\ mostrarCargo\ a\ la\ clase\ padre\ y\ luego\ muestra\ por\ pantalla\ la\ informacion\ del\ cargo\r\n\ de\ caracter\ exclusivo\r\n
+numComments=7

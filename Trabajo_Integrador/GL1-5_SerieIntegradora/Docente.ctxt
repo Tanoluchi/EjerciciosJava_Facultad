@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Docente
+comment0.text=\r\n\ class\ Docente.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (1.0\ -\ 01/11/2020)\r\n
+comment1.params=p_dniSocio\ p_nombre\ p_area
+comment1.target=Docente(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Docente\r\n\ \r\n\ @param\ int\ p_dniSocio\r\n\ @param\ String\ p_nombre\r\n\ @param\ String\ p_area\r\n
+comment2.params=p_area
+comment2.target=void\ setArea(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getArea()
+comment4.params=
+comment4.target=boolean\ esResponsable()
+comment4.text=\r\n\ Metodo\ esResponsable\ que\ retorna\ 'True'\ si\ el\ docente\ no\ posee\ prestamos\ vencidos.\r\n\ en\ caso\ contrario,\ no\ es\ responsable\ y\ retorna\ 'False'\r\n
+comment5.params=p_dias
+comment5.target=void\ agregarDiasDePrestamo(int)
+comment5.text=\r\n\ Metodo\ agregarDiasDePrestamos(),\ adiciona\ d\u00EDas\ de\ pr\u00E9stamo\ al\ docente.\ Es\ un\ premio\ a\ la\ responsabilidad.\r\n
+comment6.params=
+comment6.target=java.lang.String\ soyDeLaClase()
+comment6.text=\r\n\ Metodo\ soyDeLaClase(),\ devuelve\ el\ String\ \u201CDocente?.\r\n
+numComments=7

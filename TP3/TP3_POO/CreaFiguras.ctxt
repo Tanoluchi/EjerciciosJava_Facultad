@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CreaFiguras
+comment0.text=\r\n\ CreaFiguras\ es\ una\ clase\ ejecutable\ para\ probar\ las\ Clases\ circulo\ y\ rectangulo.\r\n\ \r\n\ @author\ Valenzuela\ Luciano\r\n\ @version\ 9/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

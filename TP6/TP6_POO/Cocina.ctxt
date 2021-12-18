@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Cocina
+comment0.text=\r\n\ Clase\ Cocina\ imprime\ por\ pantalla\ las\ caracteristicas\ de\ una\ cocina\ y\ calcula\ la\ cuotas\ de\ credito\ adicional.\r\n\ \r\n\ @author\ Valenzuela\ Luciano\ Juan\ Ignacio\r\n
+comment1.params=p_marca\ p_precio\ p_stock\ p_hornallas\ p_calorias\ p_dimensiones
+comment1.target=Cocina(java.lang.String,\ float,\ int,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\r\n\ @param\ String\ marca,\ float\ precio,\ int\ stock,\ int\ hornallas,\ int\ calorias,\ String\ dimensiones\r\n
+comment2.params=p_hornallas
+comment2.target=void\ setHornallas(int)
+comment2.text=\r\n\ Setters\r\n
+comment3.params=p_calorias
+comment3.target=void\ setCalorias(int)
+comment4.params=p_dimensiones
+comment4.target=void\ setDimensiones(java.lang.String)
+comment5.params=
+comment5.target=int\ getHornallas()
+comment5.text=\r\n\ Getters\r\n
+comment6.params=
+comment6.target=int\ getCalorias()
+comment7.params=
+comment7.target=java.lang.String\ getDimensiones()
+comment8.params=
+comment8.target=void\ imprimir()
+comment9.params=p_cuotas\ p_interes
+comment9.target=float\ creditoConAdicional(int,\ float)
+comment9.text=\r\n\ Se\ manda\ un\ mensaje\ al\ metodo\ cuotaCredito\ de\ la\ clase\ padre\ para\ calcular\ el\ credito.\r\n\ @param\ int\ cuotas,\ interes\r\n\ @return\ credito\ con\ adicional\r\n
+numComments=10

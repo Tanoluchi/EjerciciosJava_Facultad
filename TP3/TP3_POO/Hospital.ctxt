@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\r\n\ Clase\ Hospital\ realiza\ una\ consulta\ de\ los\ datos\ filiatorios\ de\ un\ paciente.\r\n\ \r\n\ @author\ Valenzuela\ Luciano\r\n\ @version\ 9/2021\r\n
+comment1.params=p_hospital\ p_director
+comment1.target=Hospital(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\r\n\ @param\ String\ hospital,\ String\ director\r\n
+comment2.params=p_hospital
+comment2.target=void\ setHospital(java.lang.String)
+comment2.text=\r\n\ Setters\r\n
+comment3.params=p_director
+comment3.target=void\ setDirector(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getHospital()
+comment4.text=\r\n\ Getters\r\n
+comment5.params=
+comment5.target=java.lang.String\ getDirector()
+comment6.params=p_paciente
+comment6.target=void\ consultaDatosFiliatorios(Paciente)
+comment6.text=\r\n\ Muestra\ por\ pantalla\ la\ informacion\ del\ hospital\ y\ del\ paciente.\r\n\ @param\ Paciente\ p_paciente\r\n
+numComments=7

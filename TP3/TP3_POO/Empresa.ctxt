@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Empresa
+comment0.text=\r\n\ Clase\ Empresa\ instancia\ los\ objetos\ Empleado\ y\ EmpleadoConJefe,\ muestra\ los\ datos\ del\ empleado\ y\ verifica\ si\ es\ su\ aniversario.\r\n\ \r\n\ @author\ Valenzuela\ Luciano\ \r\n\ @version\ 9/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
